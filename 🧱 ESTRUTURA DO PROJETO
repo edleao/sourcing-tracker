@@ -1,0 +1,11 @@
+sourcing-tracker/
+├── public/
+├── src/
+│   ├── App.jsx
+│   ├── supabaseClient.js
+│   ├── AddProjectForm.jsx
+│   ├── ProjectTable.jsx
+│   └── main.jsx
+├── package.json
+├── index.html
+└── vite.config.js
